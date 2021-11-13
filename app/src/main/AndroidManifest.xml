@@ -10,6 +10,26 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CourseTalk">
         <activity
+            android:name=".Course5"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".Course4"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".Course3"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".Course2"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".Course1"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
