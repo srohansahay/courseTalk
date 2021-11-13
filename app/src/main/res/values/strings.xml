@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CourseTalk</string>
+    <string name="course_1">Course 1</string>
+    <string name="course_3">Course 3</string>
+    <string name="course_4">Course 4</string>
+    <string name="course_5">Course 5</string>
+    <string name="course_list">Course List</string>
+    <string name="course_2">Course 2</string>
 </resources>
