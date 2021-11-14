@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656591999969",
+    "project_id": "coursetalk-cfa10",
+    "storage_bucket": "coursetalk-cfa10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656591999969:android:3e94370c52da2f196778a0",
+        "android_client_info": {
+          "package_name": "com.rohan01.coursetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656591999969-at943o4lq8gshu5l9er7jivo28896gaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohan01.coursetalk",
+            "certificate_hash": "2bcc6b567128dddaa89c70fecbca46bb66bc1b45"
+          }
+        },
+        {
+          "client_id": "656591999969-g9a731ei08c9d3q7ft877orrdg9d238e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO08mQE-cxKbN7Rjy344LG5Z7ss2EoDVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656591999969-g9a731ei08c9d3q7ft877orrdg9d238e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
